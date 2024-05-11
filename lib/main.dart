@@ -5,7 +5,6 @@ import 'package:path_provider/path_provider.dart';
 import 'custom_icon_button.dart';
 import 'dart:io';
 import 'package:intl/intl.dart';
-import 'package:file_picker/file_picker.dart';
 import 'package:path/path.dart' as path;
 
 void main() {
